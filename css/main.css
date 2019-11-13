@@ -18,4 +18,19 @@ html {
 
 h2{
   font-family: Dosis, sans-serif;
+  color: #512200;
+  font-size: 1.5rem;
+  padding: .4em .75em .5em;
+  margin: 0;
+  line-height: 1.5;
+  text-decoration: none;
+}
+
+p{
+  font: Georgia, serif;
+  color: #512200;
+  padding: .4em .75em .5em;
+  line-height: 1.5em;
+  margin-bottom: 0;
+
 }
