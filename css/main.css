@@ -1,13 +1,21 @@
 html {
   box-sizing: border-box;
   font: normal 100%/1.5 sans-serif;
+  background-color: #f0eee8;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-div {
-  padding: .5rem;
-  text-align: center;
+
+.link-card {
+  display:inline-block;
+  background-color: #dcd4cd;
+  border: 3px solid #9a816d;
+  border-radius: 6px;
+}
+
+h2{
+  font-family: Dosis, sans-serif;
 }
